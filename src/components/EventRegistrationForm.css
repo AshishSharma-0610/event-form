@@ -92,7 +92,6 @@
     margin-top: 5px;
 }
 
-/* Add these styles to EventRegistrationForm.css */
 .summary {
     text-align: left;
     margin-bottom: 20px;
@@ -102,8 +101,6 @@
     margin: 10px 0;
 }
 
-
-/* Responsive Styles */
 
 @media (max-width: 480px) {
     .form_area {
